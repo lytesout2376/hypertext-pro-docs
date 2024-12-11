@@ -21,6 +21,15 @@ Perfect for:
 - Code snippets
 - Template responses
 
+## In-App Purchases
+Subscription Name: HyperText Pro
+Duration: Monthly
+Price Tier: 1 ($0.99)
+Description: Access all features including unlimited text snippets and categories.
+
+## App Store Review Information
+Note: App includes auto-renewable subscription
+
 ## Keywords
 text snippets,keyboard,quick text,text expansion,text shortcuts,productivity,messaging,templates
 
