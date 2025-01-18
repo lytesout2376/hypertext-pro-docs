@@ -36,7 +36,7 @@ HyperText Pro is free to download and includes a free trial. Continued use of th
 
 ## 4. Data and Privacy
 
-All data is stored locally on your device. CLAT Studios does not collect, store, or share user data. For more details, see our Privacy Policy.
+All data is stored locally on your device using iOS app groups. CLAT Studios does not collect, store, or share user data. For more details, see our Privacy Policy.
 
 ## 5. Disclaimers
 
